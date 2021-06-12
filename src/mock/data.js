@@ -58,11 +58,18 @@ export const projectsData = [
     info: "A silent killer! He is full of mysteries and hard to predict. Real-life Levi Ackerman who will get your job done at any cost. He's a defender with whom Sergio Ramos was compared(deadly tackles ☠️). モンスタータトゥーであなたを傷つけてごめんなさい.",
     info2: '#monstor',
   },
+    {
+    id: nanoid(),
+    img: 'rohit.jpeg',
+    title: 'Rohit',
+    info: "Future doctor who's expertise lies in doing wheelie's 🤣. Rohit is a charming sun that shines even in deep sorrow. I still remember you taking long routes after class so that, you can spend more time talking with me & saurabh 🤜🏼🤛🏼. I don't know why every year I wish him happy birthday on wrong day (माफ करा साहेब)",
+    info2: '#karo-don',
+  },
   {
     id: nanoid(),
     img: 'prajwal.jpeg',
     title: 'Prajwal',
-    info: "He can do anything for his friends, I guess so! The leader of cattle 😂 and one who speaks directly to the point no matter who you are. Most passionate about his field is all I can say. He knows how to keep in touch (only if he cares about the person on another end). Prajwal is like Dum to (chicken) biryani who will the reason for enlighting your day.",
+    info: "He's lifeline his friends. The leader of cattle 😂 and one who speaks directly to the point no matter who you are. Most passionate about his field is all I can say. He knows how to keep in touch (only if he cares about the person on another end). Prajwal is like Dum to biryani who will the reason for enlighting your day.",
     info2: '#vamos',
   },
   {
