@@ -39,7 +39,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'satyam.jpg',
+    img: 'satyam.jpeg',
     title: 'Satyam',
     info: "A shinigami working part-time as a human. He can cure you with his sense of humor. My anime partner who got lost in search of his waifu. He is like a cockroach that can survive any situation and yes I can tell that from an innocent smile of yours. Our style of greeting is different, 'तुला कोणि बोलवलय' is mandatory.",
     info2: '#shaitan',
