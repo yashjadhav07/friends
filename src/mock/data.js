@@ -69,7 +69,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'prajwal.jpeg',
     title: 'Prajwal',
-    info: "He's lifeline his friends. The leader of cattle 😂 and one who speaks directly to the point no matter who you are. Most passionate about his field is all I can say. He knows how to keep in touch (only if he cares about the person on another end). Prajwal is like Dum to biryani who will the reason for enlighting your day.",
+    info: "He's lifeline for his friends. The leader of cattle 😂 and one who speaks directly to the point no matter who you are. Most passionate about his field is all I can say. He knows how to keep in touch (only if he cares about the person on another end). Prajwal is like Dum to biryani who will the reason for enlighting your day.",
     info2: '#vamos',
   },
   {
