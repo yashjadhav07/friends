@@ -151,7 +151,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'divyal.jfif',
+    img: 'divyal.png',
     title: 'Divyal',
     info: "Definition of sincerity, dedication, and intelligence was defined by her. I think she is the one who has unlocked all 6 chakras. Devil undercover who knows (maybe a Russian spy 😅). A mystery to be resolved. She is always clueless in the fight. Once in the while might get caught in the fight for being a referee (rankala incident, mkt vs sakshi 🤣).",
     info2: '#avvaa',
