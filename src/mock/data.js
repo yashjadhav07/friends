@@ -67,7 +67,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'rucha.jpg',
+    img: 'rucha.jpeg',
     title: 'Rucha',
     info: "Order! Order!..you better behave. 'Justice delayed is justice delayed' said by Martin Luthor 'Kool'-karni. A poetic aura that sets everything ablaze😆. Even the criminals get intimidated and excited both at the same time by her judgements as she believes more in god that to being a biased lawyer, as god is unbiased and so does she...But you must not and should not dare go against cause she is a combo of a feminist and most importantly a lawyer",
     info2: '#law',
