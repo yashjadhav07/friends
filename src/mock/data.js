@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: "Brother's Forever", // e.g: 'Name | Developer'
+  title: "Friend's Forever", // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: 'Time wasted successfully', // e.g: Welcome to my website
 };
@@ -46,10 +46,17 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'saurabh.jpg',
+    img: 'saurabh.jpeg',
     title: 'Saurabh',
     info: "Hardwork, Passion, self-motivated.....these words fall short. He will be the first Saurabh Magdum in the field of AI.  Unfortunately cold🤧 keeps him away from our meets. Saurya, Shoab, sho off whatever you call him, he's the radio wave that can penetrate any wall(seriously I can't write what I want to express).",
     info2: '#infinity',
+  },
+  {
+    id: nanoid(),
+    img: 'sakshi.jpg',
+    title: 'Sakshi',
+    info: "She is our sister with qualities of bro. Always supportive and caring personality. Even the sky is not her limit.  Discernable contrast is very hard to ignore. A girl lost in her own world trying to express her thoughts through paintings (seriously, you are good at that).",
+    info2: '#taxi',
   },
   {
     id: nanoid(),
@@ -58,7 +65,14 @@ export const projectsData = [
     info: "A silent killer! He is full of mysteries and hard to predict. Real-life Levi Ackerman who will get your job done at any cost. He's a defender with whom Sergio Ramos was compared(deadly tackles ☠️). モンスタータトゥーであなたを傷つけてごめんなさい.",
     info2: '#monstor',
   },
-    {
+  {
+    id: nanoid(),
+    img: 'rucha.jpg',
+    title: 'Rucha',
+    info: "Order! Order!..you better behave. 'Justice delayed is justice delayed' said by Martin Luthor 'Kool'-karni. A poetic aura that sets everything ablaze😆. Even the criminals get intimidated and excited both at the same time by her judgements as she believes more in god that to being a biased lawyer, as god is unbiased and so does she...But you must not and should not dare go against cause she is a combo of a feminist and most importantly a lawyer",
+    info2: '#law',
+  },
+   {
     id: nanoid(),
     img: 'rohit.jpeg',
     title: 'Rohit',
@@ -74,10 +88,24 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'pranita.jpg',
+    title: 'Pranita',
+    info: "Goal-oriented, serious towards career, always ready for meet-ups (more than her brother). She's the thread that binds us together and the unseen force that pushes us all. Genuinely cares about others feeling. Once upon a time, one girl wanted to be a teacher but, eventually, she turns out to be CA. One who takes most fame among the twins. Acts like she knows everything(the last 2 lines written by anonymous 😂).",
+    info2: '#CA',
+  },
+  {
+    id: nanoid(),
     img: 'pravin.jpg',
     title: 'Pravin',
     info: "Winner winner chicken dinner🔥. He's the one on whom you can rely. Responsible, Polite, True gentleman, Tsunami Ek Jwalamukhi character who will never leave you back. You know, I know, God knows what I want to say. Most of the remarkable memories are recorded via his camera.",
     info2: '#shandal',
+  },
+  {
+    id: nanoid(),
+    img: 'priti.jpg',
+    title: 'Priti',
+    info: "Hard working, self-motivated, passionate student. The only doctor in our group (Thanks for giving free appointments in the future😉). Noisy neighbor... heard by pranita🤔.  'Colgate- priti ka sujhaya number 1 brand'. Apart from medical studies, she has cooking qualities embedded in her system (Again, thanks for inviting us to dinner in the future 😁).",
+    info2: '#medico',
   },
   {
     id: nanoid(),
@@ -88,6 +116,20 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'manasi.jpg',
+    title: 'Manasi',
+    info: "Friend indeed and a friend to all but unavailable when one does call. Guess who?... Sarcasm to the point, poignant but amicable. Simplicity the best policy is one principle that she follows. And only person in the group who attends occasional functions (weddings😆) which aren't occasional but quite often.",
+    info2: '#sarcastic',
+  },
+  {
+    id: nanoid(),
+    img: 'mukteshwari.jpg',
+    title: 'Mukteshwari',
+    info: "Reader, writer, dancer, artist, and most importantly 'CA' #respect. A girl with a variety of ideas flowing through her mind who will make your every meeting memorable. She is like maggie masala🤔 that suits well with everything but, ⛔Beware, she could even turn out to be Anamika :)",
+    info2: '#mkt',
+  },
+  {
+    id: nanoid(),
     img: 'jay.jpg',
     title: 'Jay',
     info: "Hehehe...Here comes the center of mass of all jokes. His contribution as a subject for jokes makes him unique. Even if Jay's friend loses all memory in an accident, he/she will never forget who is jay. Always supportive, spreading wisdom (stop forcing me to be a vegetarian).",
@@ -95,10 +137,24 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'henal.jpg',
+    title: 'Henal',
+    info: "Free, joyful, positive skeptical personality. Do you know the reason why one direction spilted? It's Because of her 🤣. I don't know why, but she starts talking about school life whenever she becomes active in the group. She is honestly a mystery to me.",
+    info2: '#1D',
+  },
+  {
+    id: nanoid(),
     img: 'gaurav.jpg',
     title: 'Gaurav',
     info: "O g, This freak is so busy submitting assignments that, one day I would format his laptop. Deshbhakt- believe me, his thoughts and writings can change your point of viewing a country's politics. God gave him a slanty head so that unnecessary critics just slide away from his mind (just like this one (≧▽≦)).",
     info2: '#/',
+  },
+  {
+    id: nanoid(),
+    img: 'divyal.jfif',
+    title: 'Divyal',
+    info: "Definition of sincerity, dedication, and intelligence was defined by her. I think she is the one who has unlocked all 6 chakras. Devil undercover who knows (maybe a Russian spy 😅). A mystery to be resolved. She is always clueless in the fight. Once in the while might get caught in the fight for being a referee (rankala incident, mkt vs sakshi 🤣).",
+    info2: '#avvaa',
   },
   {
     id: nanoid(),
