@@ -69,7 +69,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'rucha.jpeg',
     title: 'Rucha',
-    info: "Order! Order!..you better behave. 'Justice delayed is justice delayed' said by Martin Luthor 'Kool'-karni. A poetic aura that sets everything ablaze😆. Even the criminals get intimidated and excited both at the same time by her judgements as she believes more in god that to being a biased lawyer, as god is unbiased and so does she...But you must not and should not dare go against cause she is a combo of a feminist and most importantly a lawyer",
+    info: "Order! Order!..you better behave. 'Justice delayed is justice delayed' said by Martin Luthor 'Cool'-karni. A poetic aura that sets everything ablaze😆. Even the criminals get intimidated and excited both at the same time by her judgements as she believes more in god that to being a biased lawyer, as god is unbiased and so does she...But you must not and should not dare go against cause she is a combo of a feminist and most importantly a lawyer",
     info2: '#law',
   },
    {
@@ -153,7 +153,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'divyal.png',
     title: 'Divyal',
-    info: "Definition of sincerity, dedication, and intelligence was defined by her. I think she is the one who has unlocked all 6 chakras. Devil undercover who knows (maybe a Russian spy 😅). A mystery to be resolved. She is always clueless in the fight. Once in the while might get caught in the fight for being a referee (rankala incident, mkt vs sakshi 🤣).",
+    info: "Definition of sincerity, dedication, and intelligence was defined by her. I think she is the one who has unlocked all 6 chakras. Devil undercover who knows (maybe a Russian spy 😅). A mystery to be resolved. She is always clueless in the fight. Once in the while might get caught in the fight for being a referee (rankala incident🤣).",
     info2: '#avvaa',
   },
   {
