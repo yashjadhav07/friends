@@ -188,7 +188,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: "I don't know how many of you will see this website but, if you do then please give me your feedback.",
+  cta: "It's been a long since we had get together. Let's make that happen soon.",
   btn: '',
   email: 'yash.jadhav18@vit.edu',
 };
